@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
