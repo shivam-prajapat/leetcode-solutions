@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
