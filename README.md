@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,8 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
