@@ -1,18 +1,13 @@
 class Solution {
 public:
     int largestPerimeter(vector<int>& nums) {
-        sort(nums.begin(), nums.end());      // sort ascending
-
-        for (int i = nums.size() - 1; i >= 2; i--) {
-            int a = nums[i];
-            int b = nums[i - 1];
-            int c = nums[i - 2];
-
-            if (b + c > a) {                 // triangle condition
-                return a + b + c;            // largest perimeter
+        sort(nums.begin(), nums.end(), greater<int>());
+        int n=nums.size();
+        for(int i=0; i<n-2; i++){
+            if(nums[i+1]+nums[i+2]>nums[i]){
+                return nums[i]+nums[i+1]+nums[i+2];
             }
         }
-
-        return 0; // no valid triangle
+        return 0;
     }
 };
