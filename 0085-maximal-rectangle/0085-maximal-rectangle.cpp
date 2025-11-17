@@ -1,52 +1,49 @@
 class Solution {
 public:
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        if (matrix.empty()) return 0;
-
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-
-        vector<int> height(cols, 0);
-        int maxArea = 0;
-
-        for (int r = 0; r < rows; r++) {
-            // Build "histogram heights" row by row
-            for (int c = 0; c < cols; c++) {
-                if (matrix[r][c] == '1')
-                    height[c] += 1;
-                else
-                    height[c] = 0;
-            }
-
-            // Compute largest rect for this histogram (same as LeetCode 84)
-            maxArea = max(maxArea, largestHistogram(height));
-        }
-
-        return maxArea;
-    }
-
-    int largestHistogram(vector<int>& heights) {
+    int maxArea(vector<int> &heights){
         int n = heights.size();
+        int area = 0;
         stack<int> st;
-        long long maxArea = 0;
 
-        for (int i = 0; i <= n; i++) {
-            int h = (i == n ? 0 : heights[i]);
-
-            while (!st.empty() && heights[st.top()] > h) {
-                int height = heights[st.top()];
+        for(int i=0; i<n; i++){
+            while(!st.empty() && heights[st.top()] > heights[i]){
+                int element = st.top();
                 st.pop();
-
-                int right = i;
-                int left = st.empty() ? -1 : st.top();
-                long long width = right - left - 1;
-
-                maxArea = max(maxArea, width * height);
+                int nse=i;
+                int pse= st.empty() ? -1 : st.top();
+                area = max(area,(nse-pse-1)*heights[element]);
             }
-
             st.push(i);
         }
 
-        return (int)maxArea;
+        while(!st.empty()){
+            int element = st.top();
+            st.pop();
+            int nse = n;
+            int pse = st.empty() ? -1 : st.top();
+            area = max(area,(nse-pse-1) * heights[element]);
+        }
+
+        return area;
+    }
+    int maximalRectangle(vector<vector<char>>& matrix) {
+        int m = matrix.size();
+        int n = matrix[0].size();
+
+        int maxarea = 0;
+        vector<int> height(n);
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(matrix[i][j] == '1'){
+                    height[j]++;
+                }
+                else{
+                    height[j] = 0;
+                }
+            }
+            maxarea = max(maxarea,maxArea(height));
+        }
+
+        return maxarea;
     }
 };
