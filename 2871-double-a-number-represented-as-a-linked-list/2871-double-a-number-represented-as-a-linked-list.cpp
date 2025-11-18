@@ -1,22 +1,40 @@
 class Solution {
 public:
-    int dfs(ListNode* node) {
-        if (!node) return 0;
+    ListNode* reverseLL(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
 
-        int carry = dfs(node->next);
-        int val = node->val * 2 + carry;
-
-        node->val = val % 10;
-        return val / 10;
+        while (curr != nullptr) {
+            ListNode* temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
     }
 
     ListNode* doubleIt(ListNode* head) {
-        int carry = dfs(head);
-        if (carry) {
-            ListNode* newHead = new ListNode(carry);
-            newHead->next = head;
-            return newHead;
+        if (!head) return head;        
+
+        head = reverseLL(head);
+        ListNode* ptr = head;
+        ListNode* prev = nullptr;
+
+        int carry = 0;
+        while (ptr != nullptr) {
+            int val = ptr->val * 2 + carry;  
+            ptr->val = val % 10;            
+            carry = val / 10;             
+
+            prev = ptr;
+            ptr = ptr->next;
         }
-        return head;
+
+        if (carry > 0) {
+            ListNode* newnode = new ListNode(carry);
+            prev->next = newnode;
+        }
+
+        return reverseLL(head);
     }
 };
