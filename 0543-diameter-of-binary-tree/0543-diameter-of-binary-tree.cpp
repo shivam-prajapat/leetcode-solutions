@@ -9,26 +9,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    int maxDiameter = 0;
-
-    // returns height of subtree
-    int height(TreeNode* root) {
-        if (!root) return 0;
-
-        int left = height(root->left);
-        int right = height(root->right);
-
-        // update diameter: longest path through this node
-        maxDiameter = max(maxDiameter, left + right);
-
-        return 1 + max(left, right);
+    pair<int,int> diameterFast(TreeNode* root) {
+            
+    if(root == NULL){
+        pair<int,int> p  = make_pair(0 , 0 );
+        return p;
     }
+    pair<int,int> left = diameterFast(root->left);
+    pair<int,int> right = diameterFast(root->right);
 
+    int op1 = left.first;
+    int op2 = right.first;
+    int op3 = left.second + right.second;
+
+    pair<int, int> ans ;
+    ans.first = max(op1 , max(op2 , op3));
+    ans.second = max(left.second , right.second)+1 ;
+
+    return ans;
+        
+    }
     int diameterOfBinaryTree(TreeNode* root) {
-        height(root);
-        return maxDiameter;
+        
+      int x = diameterFast(root).first;
+      return x;
     }
 };
