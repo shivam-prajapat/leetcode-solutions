@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Binary Search
@@ -136,9 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
