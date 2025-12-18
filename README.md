@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
