@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Merge Sort
 |  |
