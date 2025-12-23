@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -334,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
