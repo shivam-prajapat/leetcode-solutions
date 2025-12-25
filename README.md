@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
