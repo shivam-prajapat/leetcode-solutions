@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
 | ------- |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
