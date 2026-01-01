@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
