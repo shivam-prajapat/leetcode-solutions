@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Stack
 |  |
