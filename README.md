@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1390-four-divisors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
