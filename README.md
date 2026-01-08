@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
