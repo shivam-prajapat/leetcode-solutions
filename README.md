@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
