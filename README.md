@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0704-binary-search) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
