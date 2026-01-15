@@ -1,8 +1,13 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        return n > 0 &&
-               (n & (n - 1)) == 0 &&        // power of two
-               (n & 0x55555555) != 0;       // bit in even position
+        if(n==0)return false;
+        double num =n;
+        double t = log10(num)/log10(4.0);
+        if(floor(t)==t)return true;
+        return false;
     }
 };
+
+    
+
