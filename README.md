@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search Tree
 |  |
