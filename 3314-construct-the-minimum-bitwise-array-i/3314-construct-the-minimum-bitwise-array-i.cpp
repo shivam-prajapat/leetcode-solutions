@@ -1,31 +1,27 @@
 class Solution {
 public:
     vector<int> minBitwiseArray(vector<int>& nums) {
-        vector<int> ans;
+        int n = nums.size();
+        vector<int> ans(n);
 
-        for (int num : nums) {
-            // Count trailing 1s
-            int t = 0;
-            int x = num;
-            while (x & 1) {
-                t++;
-                x >>= 1;
-            }
-
-            if (t == 0) {
-                ans.push_back(-1); // even or no trailing 1s
-                continue;
-            }
-
-            int res = num - (1 << (t - 1));
-
-            if ((res | (res + 1)) == num) {
-                ans.push_back(res);
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] == 2) {
+                ans[i] = -1;
             } else {
-                ans.push_back(-1);
+                // Find the position of the first '0' bit starting from the right (LSB)
+                // effectively counting the length of the trailing sequence of '1's.
+                int c = 0;
+                int temp = nums[i];
+                while ((temp & 1) == 1) {
+                    temp >>= 1;
+                    c++;
+                }
+                
+                // The bit to turn off is at index c-1.
+                // This corresponds to subtracting 2^(c-1).
+                ans[i] = nums[i] - (1 << (c - 1));
             }
         }
-
         return ans;
     }
 };
