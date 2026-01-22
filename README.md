@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -497,4 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
