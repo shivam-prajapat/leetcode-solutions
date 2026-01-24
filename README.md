@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
