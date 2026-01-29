@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
