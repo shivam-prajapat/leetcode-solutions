@@ -1,31 +1,28 @@
 class Solution {
 public:
-    void merge(vector<int>& nums1, int sizeA, vector<int>& nums2, int sizeB) {
-
-        // We start filling nums1 from the END (right side).
-        int writeIndex = sizeA + sizeB - 1;  // where next number goes
-        int pointerA   = sizeA - 1;          // last valid element in nums1
-        int pointerB   = sizeB - 1;          // last element in nums2
-
-        // Compare from the back and place the biggest value at writeIndex
-        while (pointerA >= 0 && pointerB >= 0) {
-
-            if (nums1[pointerA] > nums2[pointerB]) {
-                nums1[writeIndex] = nums1[pointerA];
-                pointerA--;
-            } else {
-                nums1[writeIndex] = nums2[pointerB];
-                pointerB--;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i =0 ;
+        int j =0;
+        vector<int> unionArr;
+        while(i<m && j<n){
+            if(nums1[i]<nums2[j]){
+                unionArr.push_back(nums1[i]);
+                i++;
+            }else{
+                unionArr.push_back(nums2[j]);
+                j++;
             }
-
-            writeIndex--;  // move left in nums1
+        }
+        while(i < m){
+            unionArr.push_back(nums1[i++]);
+        }
+        while(j<n){
+            unionArr.push_back(nums2[j++]);
+        }
+        for(int i =0 ;i< unionArr.size();i++){
+            nums1[i]=unionArr[i];
         }
 
-        // If nums2 still has elements left, put them in nums1
-        while (pointerB >= 0) {
-            nums1[writeIndex] = nums2[pointerB];
-            pointerB--;
-            writeIndex--;
-        }
+        
     }
 };
