@@ -12,7 +12,7 @@
 
 class Solution {
 public:
-    // returns height if balanced, -1 if not balanced
+   
     int checkBalance(TreeNode* root) {
         if (!root) return 0;
 
