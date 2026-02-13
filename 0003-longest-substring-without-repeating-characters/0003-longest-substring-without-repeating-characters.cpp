@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        if(s.size()==0)return 0;
         int hash[256];
         memset(hash,-1,sizeof(hash));
 
