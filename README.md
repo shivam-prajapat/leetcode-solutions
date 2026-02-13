@@ -48,6 +48,7 @@
 | [0402-remove-k-digits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -676,4 +677,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
