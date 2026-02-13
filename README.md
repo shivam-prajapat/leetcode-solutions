@@ -58,6 +58,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
@@ -319,6 +320,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -580,6 +582,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1895-largest-magic-square) |
+| [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
