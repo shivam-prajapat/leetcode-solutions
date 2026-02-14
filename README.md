@@ -246,6 +246,7 @@
 | [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
