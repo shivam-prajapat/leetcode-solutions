@@ -41,6 +41,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -209,6 +210,7 @@
 | [0048-rotate-image](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -356,6 +358,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0136-single-number) |
@@ -387,6 +390,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
