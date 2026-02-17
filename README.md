@@ -366,6 +366,7 @@
 | [0231-power-of-two](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -645,6 +646,7 @@
 | [0078-subsets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Doubly-Linked List
 |  |
 | ------- |
