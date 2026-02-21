@@ -220,6 +220,7 @@
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -370,6 +371,7 @@
 | [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
