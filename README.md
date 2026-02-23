@@ -55,6 +55,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -324,6 +325,7 @@
 | [0771-jewels-and-stones](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -374,6 +376,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
@@ -699,4 +702,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0796-rotate-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
