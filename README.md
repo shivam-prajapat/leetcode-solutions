@@ -60,6 +60,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
