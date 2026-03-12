@@ -375,6 +375,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -499,6 +500,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Merge Sort
 |  |
@@ -707,6 +709,7 @@
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -743,4 +746,9 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
