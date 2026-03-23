@@ -70,6 +70,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -267,6 +268,7 @@
 | [2481-strictly-palindromic-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -662,6 +664,7 @@
 | [0169-majority-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
