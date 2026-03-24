@@ -175,6 +175,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -451,6 +452,7 @@
 | [1895-largest-magic-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2906-construct-product-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
@@ -675,6 +677,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1895-largest-magic-square) |
+| [2906-construct-product-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
