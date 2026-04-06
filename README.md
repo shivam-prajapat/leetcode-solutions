@@ -143,6 +143,7 @@
 | [0874-walking-robot-simulation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0912-sort-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -390,6 +391,7 @@
 | [0771-jewels-and-stones](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -797,6 +799,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
