@@ -504,6 +504,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -603,6 +604,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
