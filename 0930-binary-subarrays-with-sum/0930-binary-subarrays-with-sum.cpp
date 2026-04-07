@@ -1,32 +1,28 @@
-
-
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-      
-        return atMost(nums, goal) - atMost(nums, goal - 1);
-    }
-
-private:
-    int atMost(const vector<int>& nums, int goal) {
-        if (goal < 0) return 0; 
-        
-        int currentSum = 0;
+    int solve(vector<int>& nums, int goal) {
+        if(goal<0)return 0;
+        int left = 0 ;
+        int right = 0;
         int count = 0;
-        int left = 0;
-        
-        for (int right = 0; right < nums.size(); ++right) {
-            currentSum += nums[right];
-        
-            while (currentSum > goal) {
-                currentSum -= nums[left];
+        int sum = 0;
+
+        while(right < nums.size()){
+            sum += nums[right];
+
+            while(sum>goal){
+                sum-=nums[left];
                 left++;
             }
-            
-            
-            count += right - left + 1;
+
+            count += (right - left + 1);
+            right++;
+
         }
-        
         return count;
+
+    }
+    int numSubarraysWithSum(vector<int>& nums, int goal){
+        return solve(nums,goal) - solve(nums,goal-1);
     }
 };
