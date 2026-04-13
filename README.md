@@ -175,6 +175,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
