@@ -9,31 +9,27 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    int maxSum = INT_MIN;
 
-    // returns max gain from this node
-    int maxGain(TreeNode* root) {
-        if (!root) return 0;
+    int solve(TreeNode* root, int &maxi){
 
-        // ignore negative paths
-        int left = max(0, maxGain(root->left));
-        int right = max(0, maxGain(root->right));
+        if(root == NULL) return 0;
 
-        // best path passing THROUGH node
-        int fullPath = root->val + left + right;
+        int leftSum = max(0,solve(root->left, maxi));
+        int rightSum = max(0,solve(root->right, maxi));
 
-        // update global max
-        maxSum = max(maxSum, fullPath);
+        maxi = max(maxi,leftSum+rightSum+root->val);
 
-        // return max gain to parent (only one side allowed)
-        return root->val + max(left, right);
+        return root->val + max(leftSum, rightSum);
+
     }
 
     int maxPathSum(TreeNode* root) {
-        maxGain(root);
-        return maxSum;
+        
+       int maxi = INT_MIN;
+       solve(root, maxi);
+       return maxi;
+
     }
 };
