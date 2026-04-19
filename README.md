@@ -26,6 +26,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -178,6 +179,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -461,6 +463,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
