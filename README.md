@@ -74,6 +74,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -760,6 +761,7 @@
 | [0229-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2833-furthest-point-from-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
