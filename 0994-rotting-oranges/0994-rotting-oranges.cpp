@@ -1,48 +1,56 @@
 class Solution {
 public:
-vector<vector<int>>directions{{-1,0},{1,0},{0,-1},{0,1}};
     int orangesRotting(vector<vector<int>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
-        queue<pair<int,int>>que;
-        int freshcount=0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        int n = grid.size();
+        int m = grid[0].size();
+        queue<pair<pair<int,int>,int>>q;
+        int vis[n][m];
+        int cntFresh = 0;
+
+        for(int i = 0 ; i<n ; i++){
+            for(int j = 0 ; j<m ; j++){
                 if(grid[i][j]==2){
-                    que.push({i,j});
-                }else if(grid[i][j]==1){
-                    freshcount++;
+                    q.push({{i,j},0});
+                    vis[i][j]=2;
+                }else{
+                    vis[i][j]=0;
                 }
 
+                if(grid[i][j]==1) cntFresh++;
             }
         }
-        if(freshcount==0){
-            return 0;
-        }
-        int minutes=0;
-        while(!que.empty()){
-            int N=que.size();
-            while(N--){
-                pair<int,int>curr=que.front();
-                que.pop();
-                int i=curr.first;
-                int j=curr.second;
-                for(vector<int>&dir : directions){
-                    int new_i=i+dir[0];
-                    int new_j=j+dir[1];   
-                    if(new_i>=0 && new_i<m && new_j>=0 && new_j<n && grid[new_i][new_j]==1){
-                        grid[new_i][new_j]=2;
-                        que.push({new_i,new_j});
-                        freshcount--;
+        int tm = 0;
+        int drow[] = {-1,0,1,0};
+        int dcol[] = {0,1,0,-1};
 
-                    }  
+        int cnt = 0;
 
-                    }
+        while(!q.empty()){
+            int r = q.front().first.first;
+            int c = q.front().first.second;
+            int t = q.front().second;
 
+            q.pop();
+
+            tm = max(tm,t);
+
+            for(int i = 0 ;i<4;i++){
+
+                int nrow = r + drow[i];
+                int ncol = c + dcol[i];
+
+                if(nrow >= 0 && nrow < n && ncol>=0 && ncol<m && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
+                    q.push({{nrow,ncol},t+1});
+                    vis[nrow][ncol]=2;
+                    cnt++;
+                }
             }
-            minutes++;
-
         }
-        return freshcount==0?(minutes-1):-1;
+
+        if(cntFresh!=cnt){
+            return -1;
+        }
+
+        return tm;
     }
 };
