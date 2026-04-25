@@ -215,6 +215,7 @@
 | [3379-transformed-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -272,6 +273,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -313,6 +315,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -471,6 +474,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -805,6 +809,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
