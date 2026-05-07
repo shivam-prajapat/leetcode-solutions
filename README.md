@@ -230,6 +230,7 @@
 | [3640-trionic-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -359,6 +360,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3640-trionic-array-ii) |
+| [3660-jump-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Stack
