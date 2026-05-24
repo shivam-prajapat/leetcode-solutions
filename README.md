@@ -170,6 +170,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -278,6 +279,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1340-jump-game-v](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -359,6 +361,7 @@
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1340-jump-game-v](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
