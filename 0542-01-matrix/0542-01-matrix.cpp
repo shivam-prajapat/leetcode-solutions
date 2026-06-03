@@ -1,40 +1,46 @@
 class Solution {
 public:
-    vector<vector<int>>directions{{-1,0},{1,0},{0,-1},{0,1}};
-    int m,n;
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m=mat.size();
-        int n=mat[0].size();
-        queue<pair<int,int>>q;
-        vector<vector<int>>result(m,vector<int>(n,-1));
+        int n = mat.size();
+        int m = mat[0].size();
+        vector<vector<int>>dist(n,vector<int>(m,0));
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        vector<vector<int>>visited(n,vector<int>(m,0));
+        queue<pair<pair<int,int>,int>>q;
+
+        for(int i = 0 ;i<n;i++){
+            for(int j = 0 ;j<m;j++){
                 if(mat[i][j]==0){
-                    result[i][j]=0;
-                    q.push({i,j});
+                    q.push({{i,j},0});
+                    visited[i][j]=1;
                 }
             }
         }
+
+        int drow[]={-1,0,1,0};
+        int dcol[]={0,1,0,-1};
+
         while(!q.empty()){
-            pair<int,int>p=q.front();
+            int row = q.front().first.first;
+            int col = q.front().first.second;
+            int steps = q.front().second;
+
+            dist[row][col]=steps;
             q.pop();
-            int i=p.first;
-            int j=p.second;
 
-            for(auto &dir : directions){
-                int new_i=i+dir[0];
-                int new_j=j+dir[1];
+            for(int i = 0 ;i<4;i++){
+                int nrow = row+drow[i];
+                int ncol = col+dcol[i];
 
-                if(new_i>=0 && new_i<m && new_j>=0 && new_j<n && result[new_i][new_j]==-1){
-
-                    result[new_i][new_j]=result[i][j] + 1;
-                    q.push({new_i,new_j});
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && visited[nrow][ncol]==0 ){
+                    visited[nrow][ncol]=1;
+                    q.push({{nrow,ncol},steps+1});
                 }
             }
         }
+        return dist;
 
-        return result;
+
 
     }
 };
