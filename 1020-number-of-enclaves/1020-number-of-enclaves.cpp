@@ -1,47 +1,66 @@
 class Solution {
-private:
-    void dfs(vector<vector<int>>& grid,int i,int j){
-        if(i<0 || i>=m || j<0 || j>=n || grid[i][j]==0) return ;
-        grid[i][j]=0;
-        dfs(grid,i,j+1);
-        dfs(grid,i,j-1);
-        dfs(grid,i+1,j);
-        dfs(grid,i-1,j);
-        
-    }
 public:
-    int m,n;
+
+    void DFS(int row,int col, vector<vector<int>>&grid, vector<vector<int>>&vis){
+        int n = grid.size();
+        int m = grid[0].size();
+
+        int drow[]={-1,0,1,0};
+        int dcol[]={0,1,0,-1};
+
+        for(int i = 0 ;i<4; i++){
+            int nrow = row + drow[i];
+            int ncol = col + dcol[i];
+
+            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1 &&  !vis[nrow][ncol]){
+
+                vis[nrow][ncol]=1;
+                DFS(nrow,ncol,grid,vis);
+            }
+        }
+    }
+
     int numEnclaves(vector<vector<int>>& grid) {
-        
-         m=grid.size();
-         n=grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>>vis(n,vector<int>(m,0));
 
-        for(int row=0;row<m;row++){
-            if(grid[row][0]==1){
-                dfs(grid,row,0);
+        //Row
+
+        for(int i = 0 ;i<n; i++){
+            if(grid[i][0]==1 && vis[i][0]!=1){
+                vis[i][0]=1;
+                DFS(i,0,grid,vis);
             }
-            if(grid[row][n-1]){
-                dfs(grid,row,n-1);
+            if(grid[i][m-1]==1 && vis[i][m-1]!=1){
+                vis[i][m-1]=1;
+                DFS(i,m-1,grid,vis);
+            }
+        }
+        //col
+
+        for(int j = 0 ;j<m;j++){
+            if(grid[0][j]==1 && vis[0][j]!=1){
+                vis[0][j]=1;
+                DFS(0,j,grid,vis);
+            }
+
+            if(grid[n-1][j]==1 && !vis[n-1][j]){
+                vis[n-1][j]=1;
+                DFS(n-1,j,grid,vis);
+            }
+        }
+        int count = 0 ;
+
+        for(int i = 0 ;i<n;i++){
+            for(int j = 0 ;j<m;j++){
+                if(grid[i][j]==1 && !vis[i][j]){
+                    count++;
+                }
             }
         }
 
-        for(int col=0;col<n;col++ ){
-            if(grid[0][col]==1){
-                dfs(grid,0,col);
-            }
-            if(grid[m-1][col]==1){
-                dfs(grid,m-1,col);
-            }
-
-        }
-        int count=0;
-
-        for(int i=0 ;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]==1) count++;
-            }
-        }
         return count;
-    };
+    }
 
 };
