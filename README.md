@@ -53,6 +53,7 @@
 | [0242-valid-anagram](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0657-robot-return-to-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0761-special-binary-string) |
@@ -458,6 +459,7 @@
 | [0242-valid-anagram](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -806,6 +808,7 @@
 | [0200-number-of-islands](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
