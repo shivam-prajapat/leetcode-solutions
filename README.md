@@ -354,6 +354,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -398,6 +399,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
