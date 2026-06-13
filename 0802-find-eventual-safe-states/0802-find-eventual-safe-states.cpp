@@ -1,48 +1,45 @@
 class Solution {
 public:
-
-    bool DFS(int node,vector<int>&vis,vector<int>&inRec,vector<vector<int>>&graph){
-
-        vis[node]=1;
-        inRec[node]=1;
-
-        for(auto it : graph[node]){
-            if(!vis[it] && DFS(it,vis,inRec,graph)){
-                return true;
-            }
-            else if(inRec[it]){
-                return true;
-            }
-        }
-        inRec[node]=0;
-
-        return false;
-    }
-
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-    
-        vector<int>vis(graph.size(),0);
-        vector<int>inRec(graph.size(),0);
 
-        vector<int>res;
+       // TOPOLOGICAL SORT METHOD
 
+       int V = graph.size();
 
+       vector<vector<int>>adj(V); 
+       vector<int>inDeg(V,0);
+       vector<int>safeNodes;
 
-        for(int i = 0 ;i<graph.size();i++){
-            if(!vis[i]){
-                DFS(i,vis,inRec,graph);
-                
+       for(int u = 0 ;u<V;u++){
+        for(int v : graph[u]){
+            adj[v].push_back(u);
+            inDeg[u]++;
+        }
+       }
+
+       queue<int>q;
+
+       for(int i = 0 ;i<V;i++){
+        if(inDeg[i]==0){
+            q.push(i);
+        }
+       }
+
+       while(!q.empty()){
+        int node = q.front();
+        safeNodes.push_back(node);
+        q.pop();
+
+        for(auto it : adj[node]){
+            inDeg[it]--;
+            if(inDeg[it]==0){
+                q.push(it);
             }
         }
 
-        for(int i  = 0 ;i<inRec.size();i++){
-            if(inRec[i]!=1){
-                res.push_back(i);
-            }
-        }
+       }
 
-
-        sort(res.begin(),res.end());
-        return res;
+       sort(safeNodes.begin(),safeNodes.end());
+       return safeNodes;
     }
 };
