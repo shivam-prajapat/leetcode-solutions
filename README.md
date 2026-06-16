@@ -195,6 +195,7 @@
 | [1539-kth-missing-positive-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1015,6 +1016,7 @@
 | [0802-find-eventual-safe-states](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1067,6 +1069,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1074,6 +1077,7 @@
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Queue
 |  |
