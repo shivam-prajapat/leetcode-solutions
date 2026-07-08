@@ -94,6 +94,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -373,6 +374,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -935,6 +937,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union Find
 |  |
 | ------- |
