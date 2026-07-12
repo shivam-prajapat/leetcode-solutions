@@ -157,6 +157,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -303,6 +304,7 @@
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -398,6 +400,7 @@
 | [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -722,6 +725,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
