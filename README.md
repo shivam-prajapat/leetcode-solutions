@@ -381,6 +381,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1155,6 +1156,7 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
