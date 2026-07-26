@@ -164,6 +164,7 @@
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0704-binary-search) |
@@ -317,6 +318,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0761-special-binary-string) |
@@ -368,6 +370,7 @@
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
