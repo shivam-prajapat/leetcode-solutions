@@ -95,6 +95,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -399,6 +400,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -559,6 +561,7 @@
 | [3488-closest-equal-element-queries](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -971,6 +974,7 @@
 | [2833-furthest-point-from-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -1200,4 +1204,5 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
