@@ -160,6 +160,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -374,6 +375,7 @@
 | [0268-missing-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
@@ -437,6 +439,7 @@
 | [0410-split-array-largest-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -731,6 +734,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 ## Linked List
 |  |
@@ -766,6 +770,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Greedy
