@@ -163,6 +163,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -447,6 +448,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1091,6 +1093,7 @@
 | [0090-subsets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Doubly-Linked List
@@ -1247,8 +1250,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
