@@ -197,6 +197,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -385,6 +386,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -458,6 +460,7 @@
 | [0799-champagne-tower](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -748,6 +751,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
@@ -1015,6 +1019,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1243,10 +1248,12 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Knapsack Problem
 |  |
