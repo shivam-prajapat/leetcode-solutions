@@ -245,6 +245,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -405,6 +406,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -760,6 +762,7 @@
 | [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -816,6 +819,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1013,6 +1017,7 @@
 | [0229-majority-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -1260,12 +1265,14 @@
 | [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1285,6 +1292,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
