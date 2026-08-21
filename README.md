@@ -67,6 +67,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -468,6 +469,7 @@
 | [0799-champagne-tower](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0909-stone-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -1306,5 +1308,6 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
