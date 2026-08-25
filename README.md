@@ -306,6 +306,7 @@
 | [3660-jump-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -606,6 +607,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
