@@ -103,6 +103,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -758,6 +759,7 @@
 | [2751-robot-collisions](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
