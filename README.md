@@ -296,6 +296,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -442,6 +443,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -515,6 +517,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3640-trionic-array-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/3660-jump-game-ix) |
