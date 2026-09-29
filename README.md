@@ -262,6 +262,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -515,6 +516,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -743,6 +745,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1369,4 +1372,8 @@
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
