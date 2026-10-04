@@ -60,6 +60,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0657-robot-return-to-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -492,6 +493,7 @@
 | [0518-coin-change-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -553,6 +555,7 @@
 | [0496-next-greater-element-i](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -859,6 +862,7 @@
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1375,5 +1379,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
