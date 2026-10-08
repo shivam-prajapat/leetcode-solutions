@@ -6,11 +6,11 @@ public:
 
         for (char c : s) {
             if (c == '(') {
-                if (count > 0) result += c; // skip the outer '('
+                if (count > 0) result += c; 
                 count++;
             } else {
                 count--;
-                if (count > 0) result += c; // skip the outer ')'
+                if (count > 0) result += c; 
             }
         }
 
