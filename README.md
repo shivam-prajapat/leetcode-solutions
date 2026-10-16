@@ -205,6 +205,7 @@
 | [0994-rotting-oranges](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -686,6 +687,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
