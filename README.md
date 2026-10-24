@@ -93,6 +93,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -450,6 +451,7 @@
 | [1927-sum-game](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
