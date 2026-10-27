@@ -27,6 +27,7 @@
 | [0455-assign-cookies](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -629,6 +630,7 @@
 | [0525-contiguous-array](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
@@ -969,6 +971,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -996,6 +999,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -1036,6 +1040,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1061,6 +1066,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -1102,6 +1108,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivam-prajapat/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
